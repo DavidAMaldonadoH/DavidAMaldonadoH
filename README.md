@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAMaldonadoH&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAMaldonadoH&layout=compact)](https://github.com/DavidMaldonadoH/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAMaldonadoH&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAMaldonadoH&layout=donut&theme=tokyonight)](https://github.com/DavidMaldonadoH/github-readme-stats)
 <!--
 **DavidAMaldonadoH/DavidAMaldonadoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
